@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+  <datalist id="CURRENCY">
+    <option value="USD">
+    <option value="CAD">
+    <option value="EUR">
+    <option value="MXN">
+    <option value="INR">
+  </datalist>
+
+  <div id="container2">
+    <h2>Currency Converter</h2>
+    <p>This is the second currency converter</p>
+
+    <label for="amount">Amount</label>
+    <input type="text" id="amount" name="amount" value=1>
+
+    <label for="currencyInput">Currency</label>
+    <input type="text" id="currencyInput" name="currency" list="CURRENCY" value="USD">
+
+    <label for="currencyOutput">Convert To</label>
+    <input type="text" id="currencyOutput" name="currencyOutput" list="CURRENCY" value="INR"><br>
+
+    <button id="mybtn">Send</button>
+
+    <h3 id="myH2"></h3>
+  </div>
+
+  <script src="currency.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(235, 218, 201);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+h2{color: white;}
+
+#result{
+  color: rgb(146, 255, 146);
+}
+
+label{color: white;}
+
+div{
+  background-color: rgba(165, 67, 42, 0.823);
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  width: 300px;
+  margin: auto;
+}

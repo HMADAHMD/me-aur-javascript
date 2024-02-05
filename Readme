@@ -1,0 +1,40 @@
+Topics to learn before starting react:
+HTML
+- open tag
+- close tag
+- bold tag
+- italic tag
+- underline tag
+- list tag
+- div tag
+- span tag
+- header tag
+- footer tag
+
+
+CSS
+- properties
+- selector
+- id
+- class
+- underline tag
+- attribute
+- css 3 designing
+
+JAVASCRIPT
+- variable [let var const]								~
+- statments [loops, conditional]					~
+- loop[for in, for off]										~
+- array and object destructure						~
+- spead and rest													~
+- functions																~
+- ECMA Script [map, filter, reduce]				~
+- callback function												~
+- arrow function													~
+- classes																	~
+- page import export											~
+- Asynchronous														~
+- Synchronous															~
+- promises																~
+- async await															~
+- api data display and fetch
